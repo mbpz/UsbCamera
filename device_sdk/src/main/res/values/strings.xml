@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">device_sdk</string>
+    <string name="select">Select USB Web Camera</string>
+    <string name="camera">Camera</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_device">No USB camera found</string>
+
+    <!--<string name="color_picker_select">Select</string>-->
+    <!--<string name="color_picker_cancel">Cancel</string>-->
+    <!--<string name="color_picker_default_title">Select a Color</string>-->
+</resources>
